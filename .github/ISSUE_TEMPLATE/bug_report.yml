@@ -1,0 +1,20 @@
+name: Bug report
+description: Report reproducible behavior with sanitized details
+body:
+  - type: textarea
+    attributes:
+      label: What happened?
+      description: Describe the expected and actual result. Use synthetic examples.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Reproduction and versions
+      description: Steps, operating system, runtime and application versions.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Sanitized logs
+      description: Remove credentials, private addresses, usernames and personal data.
+      render: text

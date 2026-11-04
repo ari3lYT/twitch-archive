@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="380" viewBox="0 0 1280 380">
+      <rect width="1280" height="380" rx="24" fill="#11141c"/>
+      <path d="M980 -60 1320 280M890 -60 1320 370M800 -60 1240 380" stroke="#b497ff" stroke-opacity=".12" stroke-width="50"/>
+      <circle cx="1140" cy="90" r="100" fill="#b497ff" fill-opacity=".08"/>
+      <text x="64" y="74" font-family="monospace" font-size="14" letter-spacing="4" fill="#b497ff">OPEN SOURCE / BUILT TO BE USED</text>
+      <text x="60" y="168" font-family="sans-serif" font-weight="700" font-size="66" fill="#f3f3f7">Twitch Archive</text>
+      <text x="64" y="224" font-family="sans-serif" font-size="25" fill="#a9afc1">Your streams. Your storage. Your schedule.</text><rect x="64" y="281" width="205" height="36" rx="18" fill="#b497ff" fill-opacity=".12"/><text x="81" y="305" fill="#b497ff" font-family="sans-serif" font-size="15">Durable checkpoints</text><rect x="281" y="281" width="133" height="36" rx="18" fill="#b497ff" fill-opacity=".12"/><text x="298" y="305" fill="#b497ff" font-family="sans-serif" font-size="15">Replay chat</text><rect x="426" y="281" width="133" height="36" rx="18" fill="#b497ff" fill-opacity=".12"/><text x="443" y="305" fill="#b497ff" font-family="sans-serif" font-size="15">Self-hosted</text>
+    </svg>
