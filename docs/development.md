@@ -1,3 +1,5 @@
+**English** · [Русский](development.ru.md)
+
 # Development
 
 Install `requirements.txt`. Run `python tools/check.py` from the repository root to verify schedule

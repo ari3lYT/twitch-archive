@@ -1,3 +1,5 @@
+**English** · [Русский](CONTRIBUTING.ru.md)
+
 # Contributing
 
 Start with [the development guide](docs/development.md) and [the architecture](docs/architecture.md).
@@ -9,3 +11,5 @@ Use synthetic examples. Keep runtime databases, session files, exported conversa
 private addresses and personal screenshots out of commits and issue attachments.
 
 This project uses the MIT license. Preserve notices when adding third-party code or assets.
+
+Documentation is maintained in English and Russian. When changing behavior, update both versions; keep command examples, configuration keys and protocol fields identical. Link paired pages with the language switch at the top.

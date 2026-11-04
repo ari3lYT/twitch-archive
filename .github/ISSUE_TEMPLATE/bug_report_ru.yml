@@ -1,0 +1,20 @@
+name: Сообщить об ошибке (RU)
+description: Воспроизводимая ошибка с обезличенными примерами
+body:
+  - type: textarea
+    attributes:
+      label: Что произошло?
+      description: Опишите ожидаемый и фактический результат. Используйте вымышленные примеры.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Воспроизведение и версии
+      description: Шаги, операционная система, версии среды выполнения и приложения.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Обезличенные журналы
+      description: Удалите секреты, приватные адреса, имена пользователей и личные данные.
+      render: text

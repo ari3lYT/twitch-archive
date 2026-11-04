@@ -1,3 +1,5 @@
+**English** · [Русский](architecture.ru.md)
+
 # Architecture
 
 ```mermaid

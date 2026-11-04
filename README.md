@@ -1,3 +1,5 @@
+**English** · [Русский](README.ru.md)
+
 ![Twitch Archive](docs/assets/cover.svg)
 
 # Twitch Archive
@@ -7,7 +9,7 @@ A self-hosted Twitch VOD archiver with durable resume checkpoints, replay-chat e
 [![CI](https://github.com/ari3lYT/twitch-archive/actions/workflows/ci.yml/badge.svg)](https://github.com/ari3lYT/twitch-archive/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-87bfa3)](LICENSE)
 
-[Quick start](#quick-start) · [Architecture](docs/architecture.md) · [Development](docs/development.md) · [Русский](docs/README.ru.md)
+[Quick start](#quick-start) · [Architecture](docs/architecture.md) · [Development](docs/development.md)
 
 
 ## See it

@@ -1,3 +1,5 @@
+**English** · [Русский](deployment.ru.md)
+
 # Dashboard deployment
 
 1. Run the media worker in a fixed container named by `ARCHIVE_CONTAINER`; mount persistent archive

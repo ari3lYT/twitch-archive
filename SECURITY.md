@@ -1,3 +1,5 @@
+**English** · [Русский](SECURITY.ru.md)
+
 # Reporting security issues
 
 Use GitHub's private vulnerability reporting for this repository if it is enabled. Otherwise open
